@@ -28,7 +28,7 @@ public class BankingApp {
             long account_number;
 
             while(true){
-                System.out.println("*** WELCOME TO BANKING SYSTEM ***");
+                System.out.println("*** WELCOME TO BANKING SYSTEM *****");
                 System.out.println();
                 System.out.println("1. Register");
                 System.out.println("2. Login");
